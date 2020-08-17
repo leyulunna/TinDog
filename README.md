@@ -1,6 +1,5 @@
-# frontend_works
+# TinDog Website
 
-TinDog Website
 
 ## Demo
 
